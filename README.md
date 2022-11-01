@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GG-Satya aka Satyaprasanna Dash
 - 👀 I’m interested in Java and Backend development
 - 🌱 I’m currently learning New Technologies
-- 💞️ I’m looking to collaborate on Linkedin
+- 💞️ I’m looking to collaborate on Linkedin (https://www.linkedin.com/in/satyaprasanna-dash-695605208)
 - 📫 you can ping me up at-- satyaprasanna1999@gmail.com
 
 <!---
