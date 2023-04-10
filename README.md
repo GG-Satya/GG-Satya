@@ -7,6 +7,8 @@
 - 😄 Pronouns: Satya, Prasanna
 - ⚡ Fun fact: I love to Code, even if I am from a Non-CS Background🙂
 
+[![Visitors Count](https://visitor-badge.glitch.me/badge?page_id=GG-Satya)](https://gg-satya.github.io/GG-Satya/)
+
 <!---
 GG-Satya/GG-Satya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
