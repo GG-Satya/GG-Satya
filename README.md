@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GG-Satya aka Satyaprasanna Dash
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning Advance backend technologies
+- 🔭 Java Backend developer professional
+- 🌱 working on myself everyday
 - 🤔 I’m looking for help with more innovative project ideas
 - 💬 Ask me about java and backend technolgies
 - 📫 Feel free to drop your suggestions or query about my repos at *satyaprasanna1999@gmail.com*
