@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GG-Satya aka Satyaprasanna Dash
-- 🔭 Java Backend developer professional
+- 🔭 Professional Java Backend developer
 - 🌱 working on myself everyday
 - 🤔 I’m looking for help with more innovative project ideas
 - 💬 Ask me about java and backend technolgies
