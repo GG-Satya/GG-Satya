@@ -3,7 +3,7 @@
 - 🌱 working on myself everyday
 - 🤔 I’m looking for help with more innovative project ideas
 - 💬 Ask me about java and backend technolgies
-- 📫 Feel free to drop your suggestions or query about my repos at *satyaprasanna1999@gmail.com*
+- 📫 Feel free to drop your suggestions or query about my repos at *dsatyaprasanna@gmail.com*
 - 😄 Pronouns: Satya, Prasanna
 - ⚡ Fun fact: I love to Code, even if I am from a Non-CS Background🙂
 
