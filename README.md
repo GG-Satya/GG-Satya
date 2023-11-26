@@ -27,7 +27,7 @@
 - ⚡ One line that describes me best?  🎯 **A consistent soul, welcoming failure as a path to growth.**
 <hr>
 
-## 🌐 Socials: <a href="https://linkedin.com/in/satyaprasanna-dash-695605208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="120" alt="LinkedIn"></a>
+<!-- ## 🌐 Socials: <a href="https://linkedin.com/in/satyaprasanna-dash-695605208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="120" alt="LinkedIn"></a> -->
 
 
 ### 🛠 &nbsp;Tech Stack:
