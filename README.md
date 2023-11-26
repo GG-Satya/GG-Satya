@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking to collaborate on **innovative project ideas**
 
-- 👨‍💻 Find my portfolio at <a href="https://prayagp8.github.io" target="blank">My Portfolio</a>
+- 👨‍💻 Find my portfolio at <a href="https://gg-satya.github.io/Portfolio/" target="blank">My Portfolio</a>
 
 - 💬 Ask me about **Java, Spring boot, Rest APIs and Data structures and Algorithms.**
 
