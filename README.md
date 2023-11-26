@@ -9,7 +9,7 @@
 ###  💫 About Me:
 -  👋 Hi, I’m Satyaprasanna Dash. A professional Java Backend developer<br>
 
-- 🔭 I love to write code on **Java using Spring boot with other libraries**
+- 🔭 I love to write code on **Java with Spring boot framework using other libraries**
 
 - 🌱 working on myself 💻 everyday
 
