@@ -24,7 +24,7 @@
 - 📄 Know about my experiences from <a href="[https://drive.google.com/file/d/10qJBjQqiEWfQo5XoC7RfgjcwoYVH_JyR/view?usp=sharing" target="blank](https://drive.google.com/file/d/1eiPKKlLMDXH5D-CrISgFImrTY24fjJBo/view?usp=drive_link)">My Resume</a>
 
 
-- ⚡ One line that describes me best?  👉 **A consistent soul, welcoming failure as a path to growth.**
+- ⚡ One line that describes me best?  🎯 **A consistent soul, welcoming failure as a path to growth.**
 <hr>
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyaprasanna-dash-695605208) 
