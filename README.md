@@ -1,5 +1,5 @@
 ##  Hey, I'm Satya  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"><br> I am from Odisha<img src="https://github.com/GG-Satya/GG-Satya/assets/111240668/9ce2a41a-6c4d-4150-bbad-2647a8733cc9" width ="29">, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"><br>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/fdvOlldr5RYAAAAC/private.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/fdvOlldr5RYAAAAC/private.gif"> -->
 
 
 
@@ -9,7 +9,7 @@
 ###  💫 About Me:
 -  👋 Hi, I’m Satyaprasanna Dash. A professional Java Backend developer<br>
 
-- 🔭 I love to write code on **Java with Spring boot framework using other libraries**
+- 🔭 I love to write Backend code on **Java** and SQL for database.
 
 - 🌱 working on myself 💻 everyday
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 Find my portfolio at <a href="https://gg-satya.github.io/Portfolio/" target="_blank">My Portfolio</a>
 
-- 💬 Ask me about **Java, Spring boot, Rest APIs and Data structures and Algorithms.**
+- 💬 Ask me about **Java, Spring boot, Microservices ,Rest APIs and Data structures and Algorithms.**
 
 - 📫 Reach me at **dsatyaprasanna@gmail.com**
 
