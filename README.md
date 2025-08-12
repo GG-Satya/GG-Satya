@@ -1,7 +1,7 @@
 ##  Hey, I'm Satya  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"><br> I am from Odisha<img src="https://github.com/GG-Satya/GG-Satya/assets/111240668/9ce2a41a-6c4d-4150-bbad-2647a8733cc9" width ="29">, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"><br>
 <!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/fdvOlldr5RYAAAAC/private.gif"> -->
-
-
+<!-- <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
 
