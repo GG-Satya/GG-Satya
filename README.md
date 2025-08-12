@@ -6,25 +6,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
 
 
-###  💫 About Me:
--  👋 Hi, I’m Satyaprasanna Dash. A professional Java Backend developer<br>
+###  👨‍💻 About Me:
+- 🙋‍♂️ Hello World !!!, I’m **Satyaprasanna Dash** and I love programming.<br>
 
-- 🔭 I love to write Backend code on **Java** and SQL for database.
+- 💼 Working as a Java full stack developer in industries since 2022.
 
-- 🌱 working on myself 💻 everyday
+- 💡 Building software that makes people’s lives easier.
 
-- 🤝 I’m looking to collaborate on **innovative project ideas**
-
-- 👨‍💻 Find my portfolio at <a href="https://gg-satya.github.io/Portfolio/" target="_blank">My Portfolio</a>
-
-- 💬 Ask me about **Java, Spring boot, Microservices ,Rest APIs and Data structures and Algorithms.**
-
+- 🤝 Love to collaborate on **innovative project ideas**
 - 📫 Reach me at **dsatyaprasanna@gmail.com**
+
+- 🌐 Find my portfolio at <a href="https://gg-satya.github.io/Portfolio/" target="_blank">My Portfolio</a>
+
+- 💬 Ask me about **Java, Spring boot, Microservices ,Rest APIs, SQL, Angular and Data structures & Algorithms.**
+
+
 
 <!-- 📄 Know about my experiences from <a href="https://drive.google.com/file/d/1eiPKKlLMDXH5D-CrISgFImrTY24fjJBo/view?usp=drive_link">My Resume</a> -->
 
 
-- ⚡ One line that describes me best?  🎯 **A consistent soul, welcoming failure as a path to growth.**
+- 🎯 Two words that describe me best:  **Consistency 📈** and **Quick Learner 📚⚡**
+
 <hr>
 
 <!-- ## 🌐 Socials: <a href="https://linkedin.com/in/satyaprasanna-dash-695605208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="120" alt="LinkedIn"></a> -->
@@ -46,7 +48,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-blue?logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/React-blue?logo=react)&nbsp;
+
 
 ![Git](https://img.shields.io/badge/-Git-blue?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat&logo=github)&nbsp;
